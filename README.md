@@ -26,7 +26,7 @@ __My Tech Stack:__
 ### Skills
 
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,py,mysql,html,css,tensorflow,pytorch,vscode,nodejs,linux,gcp" />
   </a>
